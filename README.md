@@ -2,6 +2,6 @@
 
 ## A web page
 
-Edit on example branch
-
 Now editing on update-readme branch
+
+Updating on local update-readme branch
